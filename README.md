@@ -26,9 +26,10 @@ The tool provides a user-friendly interface to analyze wireless networks and und
   ```
   (install via `pip install -r requirements.txt`):
   ```
+  ```
   pywifi
   comtypes (Windows only)
-  ```
+```
 
 ### Running the Application
 1. Install dependencies:
