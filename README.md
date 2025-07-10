@@ -22,7 +22,7 @@ The tool provides a user-friendly interface to analyze wireless networks and und
 
 ### Prerequisites
 - Python 3.x
-- Required packages:
+- Required packages:-
     (install via `pip install -r requirements.txt`):
   
   ```
