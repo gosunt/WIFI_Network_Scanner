@@ -50,6 +50,7 @@ The tool provides a user-friendly interface to analyze wireless networks and und
 
 <img width="1252" height="1040" alt="Image" src="https://github.com/user-attachments/assets/e97e98c0-51c7-40ba-ab85-c5ca7e800e67" />
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="1252" height="1040" alt="Image" src="https://github.com/user-attachments/assets/5ecbc431-3db4-4d1f-a4de-ae6f812a9e76" />
 
