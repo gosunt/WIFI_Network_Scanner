@@ -1,5 +1,4 @@
 # WIFI_Network_Scanner
-# WiFi Network Scanner
 
 ## Description
 This WiFi Network Scanner is a Python GUI application that allows you to:
